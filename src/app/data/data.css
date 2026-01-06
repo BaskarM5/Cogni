@@ -1,0 +1,28 @@
+h2 {
+  color: darkslategray;
+  font-family: 'Segoe UI', sans-serif;
+  display: inline-block;
+  padding-bottom: 5px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 10px 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: white;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+thead tr {
+  background-color: #3498db;
+  color: white;
+  text-align: left;
+  font-weight: bold;
+}
+th, td {
+  padding: 12px 15px;
+  border: 1px solid #dddddd;
+}
+
